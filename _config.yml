@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Ho-jun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello Everyone"
+  bio              : "Hello World"
   location         : "Seoul, Pangyo and Somewhere"
   email            : hojun0723@gmail.com
   links:
