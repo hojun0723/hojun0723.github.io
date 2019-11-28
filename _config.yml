@@ -111,6 +111,7 @@ author:
   bio              : "Hello World"
   location         : "Seoul, Pangyo and Somewhere"
   email            : hojun0723@gmail.com
+  github          : hojun0723
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
