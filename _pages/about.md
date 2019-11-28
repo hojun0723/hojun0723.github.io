@@ -19,31 +19,31 @@ toc: true
 ### 그룹사 DW/BI 시스템 구축 및 운영. 데이터분석
 
 - 2017.05.02 ~
-- **SQLServer(DW.DM.데이터분석)
-- **SSIS+Talend+Python+Powershell(ETL.데이터수집.자동화)
-- **Tableau(대시보드.데이터분석)
+  - SQLServer(DW.DM.데이터분석)
+  - SSIS+Talend+Python+Powershell(ETL.데이터수집.자동화)
+  - Tableau(대시보드.데이터분석)
 
 ### 그룹사 제조 빅데이터 구축
 - 2016.05.02 ~ 2017.08.31
-- **Python(데이터수집 및 전처리)
-- **R(데이터분석)
-- **Hadoop/HBase/Hive/Sqoop
+  - Python(데이터수집 및 전처리)
+  - R(데이터분석)
+  - Hadoop/HBase/Hive/Sqoop
 
 ### 그룹사 레거시 시스템 DB 오픈소스 전환
 - 2014.12.01 ~ 2016.04.29
-- **PostgreSQL
-- **Delphi XE2
+  - PostgreSQL
+  - Delphi XE2
 
 ### 그룹사 표준 MES 구축
 - 2013.05.01 ~ 2014.11.28
-- **SQLServer
-- **Delphi XE2
+  - SQLServer
+  - Delphi XE2
 
 ### 그룹사 POP 구축
 - 2008.01.02 ~ 2013.04.30
-- **SQLServer
-- **Delphi XE2
-- **Visual Basic
+  - SQLServer
+  - Delphi XE2
+  - Visual Basic
   
 ## 활동
 
