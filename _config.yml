@@ -99,7 +99,7 @@ social:
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
-  google: "UA-145867162-2"
+  google: UA-145867162-2
     tracking_id          : 
     anonymize_ip         : # true, false (default)
 
